@@ -7,3 +7,6 @@ I read “[How to Write a Git Commit Message](https://cbea.ms/git-commit/)” by
 What I found interesting is that commit messages aren’t just “notes to yourself.” And They’re communication for anyone who reads the history later (teammates, future you, even automated tools). A good message makes it easier to review changes, debug regressions, and understand why decisions were made. The article also gives practical rules (like using the imperative mood and keeping the subject line short) that are easy to apply immediately. 
 
 I like the artice.
+
+### Comments (Michael Miao)
+This article does a great job of explaining the importance of good commit messages: they not only tell others what was changed, but also why it was changed. The seven rules are simple and practical, making the log clear and easy to read.
